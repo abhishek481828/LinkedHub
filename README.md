@@ -25,24 +25,23 @@ It allows users to build professional profiles, connect with others, and showcas
 
 ---
 
-## 📂 Project Structure
-
-Final_linkedHub/ │
-├── css/                 # Stylesheets
-├── includes/            # Reusable PHP components (headers, db configs, etc.)
-├── js/                  # JavaScript files
-├── uploads/             # Uploaded files (e.g., project images, resumes)
+C:\Users\Abhishek\Final_linkedHub
+│   chat.php
+│   connections.php
+│   index.php
+│   login.php
+│   logout.php
+│   profile.php
+│   project_details.php
+│   repositories.php
+│   signup.php
+│   view_profile.php
 │
-├── chat.php             # Chat system
-├── connections.php      # Manage connections
-├── index.php            # Homepage
-├── login.php            # User login
-├── logout.php           # User logout
-├── profile.php          # User profile
-├── project_details.php  # Project details page
-├── repositories.php     # Repository/project listing
-├── signup.php           # User signup
-└── view_profile.php     # View another user's profile
+├───css
+├───includes
+├───js
+└───uploads
+
 
 
 
